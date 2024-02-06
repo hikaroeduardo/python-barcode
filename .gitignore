@@ -1,2 +1,5 @@
 # Arquivo gerado toda vez que rodamos arquivos de python
 **/__pycache__
+.venv
+
+README.md
