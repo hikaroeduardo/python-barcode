@@ -1,5 +1,6 @@
 # Arquivo gerado toda vez que rodamos arquivos de python
 **/__pycache__
 .venv
+.pytest_cache
 
 README.md
